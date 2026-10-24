@@ -1,5 +1,7 @@
 # Sistema de Gestión de Tareas con Componentes Modulares
-**Integrantes:** Albert Uziel Hernandez Mendoza - HM20019
+**Integrantes:** 
+- Albert Uziel Hernandez Mendoza - HM20019
+- Franklin Giovanny Avila González- AG22046
 
 Proyecto académico de **Desarrollo y Reutilización de Software**, Universidad de El Salvador. Aplicación de consola en C# que demuestra orientación a objetos, composición, reutilización y separación de responsabilidades.
 
