@@ -3,6 +3,7 @@
 - Albert Uziel Hernandez Mendoza - HM20019
 - Franklin Giovanny Avila González- AG22046
 - Cristhoper Alexander Mendez Montes - MM22116
+- Saul Otoniel Valdez Vasquez - VV22029
 
 Proyecto académico de **Desarrollo y Reutilización de Software**, Universidad de El Salvador. Aplicación de consola en C# que demuestra orientación a objetos, composición, reutilización y separación de responsabilidades.
 
