@@ -8,9 +8,10 @@
 **Proyecto:** Sistema de Gestión de Tareas con Componentes Modulares  
 **Lenguaje de programación:** C#  
 **Plataforma:** .NET  
-**Tipo de aplicación:** Consola
-**Miembros del equipo:**
-    Albert Uziel Hernandez Mendoza - HM20019
+**Tipo de aplicación:** Consola  
+**Miembros del equipo:**  
+* Albert Uziel Hernandez Mendoza - HM20019  
+* Cristhoper Alexander Mendez Montes - MM22116
 
 ---
 
