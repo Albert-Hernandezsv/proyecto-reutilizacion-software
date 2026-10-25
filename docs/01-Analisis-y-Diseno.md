@@ -12,7 +12,7 @@
 **Miembros del equipo:**  
 * Albert Uziel Hernandez Mendoza - HM20019  
 * Cristhoper Alexander Mendez Montes - MM22116
-
+* Saul Otoniel Valdez Vasquez - VV22029
 ---
 
 ## 1. Introducción
